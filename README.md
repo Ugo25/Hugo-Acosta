@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ugo25/Ugo25/main/banner_dark_hacker.png" alt="Banner Hugo Acosta" width="100%">
-</p>
-<h1 align="center">Hugo Acosta</h1>
+<h1 align="center">👋 ¡Hola! Soy Hugo Acosta</h1>
 
 <p align="center">
   💻 Estudiante de <strong>Ingeniería en Tecnología de la Información</strong><br>
@@ -50,9 +47,7 @@ Sitio web con fondo animado en CSS y estructura HTML completa.
 ➡️ [Ver repositorio](https://github.com/Ugo25/Fondo-Animado)
 
 🧠 **Lab-Redes-CCNA (en progreso)**  
-Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routing.
-Proxima Certificacion en CCNA
-Proxima Certificacion en Ciberseguridad Pentesting
+Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routing.  
 
 ---
 
@@ -82,4 +77,5 @@ Proxima Certificacion en Ciberseguridad Pentesting
 
 ---
 
+<h4 align="center">✨ Gracias por visitar mi perfil ✨</h4>
 <p align="center">💡 “Aprender, construir y compartir conocimiento cada día.”</p>
