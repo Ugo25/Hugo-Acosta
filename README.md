@@ -63,7 +63,7 @@ Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routin
   <a href="https://x.com/Ugowaos" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" width="35" height="35"/>
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:hugoacosta7911@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"/>
   </a>
 </p>
