@@ -1,4 +1,7 @@
-<h1 align="center">👋 ¡Hola! Soy Hugo Acosta</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ugo25/Ugo25/main/banner_dark_hacker.png" alt="Banner Hugo Acosta" width="100%">
+</p>
+<h1 align="center">Hugo Acosta</h1>
 
 <p align="center">
   💻 Estudiante de <strong>Ingeniería en Tecnología de la Información</strong><br>
@@ -25,7 +28,7 @@ y al mismo tiempo fortalecer mi base en **redes Cisco (CCNA)** para avanzar haci
 |------|--------------|
 | 💻 Desarrollo Web | HTML, CSS, JavaScript (básico), Supabase |
 | 📱 Desarrollo Móvil | Android Studio (Kotlin / Java) |
-| 🧠 Programación | C++, C#, Java |
+| 🧠 Programación | C++, C, Java |
 | 🌐 Redes | VLANs, DHCP, Routing, Subnetting (Cisco Packet Tracer) |
 | 🔐 Ciberseguridad | Pentesting, Red Team (en formación) |
 | ⚙️ Herramientas | Git, GitHub, Wireshark, Linux, Visual Studio, NetBeans |
@@ -79,5 +82,4 @@ Proxima Certificacion en Ciberseguridad Pentesting
 
 ---
 
-<h4 align="center">✨ Gracias por visitar mi perfil ✨</h4>
 <p align="center">💡 “Aprender, construir y compartir conocimiento cada día.”</p>
