@@ -42,9 +42,9 @@ Aplicación de escritorio Java Swing para convertir, unir, dividir y manipular a
 Colección de pequeñas utilidades Android (IMC, conversores, cotización). Proyecto académico.  
 ➡️ [Ver repositorio](https://github.com/Ugo25/AppMovil043)
 
-🌐 **Fondo-Animado / Entre Pares**  
+🌐 **Sitio Web / Cenaduria Chayito**  
 Sitio web con fondo animado en CSS y estructura HTML completa.  
-➡️ [Ver repositorio](https://github.com/Ugo25/Fondo-Animado)
+➡️ [Ver repositorio](https://github.com/Ugo25/CenaduriaChayito.git)
 
 **Lab-Redes-CCNA (en progreso)**  
 Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routing.  
