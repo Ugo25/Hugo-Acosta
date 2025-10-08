@@ -1,21 +1,21 @@
-<h1 align="center">👋 ¡Hola! Soy Hugo Acosta</h1>
+<h1 align="center">Hugo Acosta</h1>
 
 <p align="center">
-  💻 Estudiante de <strong>Ingeniería en Tecnología de la Información</strong><br>
-  🔧 Desarrollador Web & Móvil | ⚙️ Entusiasta de Redes y Ciberseguridad (Red Team)<br>
-  🌍 Mazatlán, Sinaloa, México
+      Estudiante de <strong>Ingeniería en Tecnología de la Información</strong><br>
+      Desarrollador Web & Móvil | Redes y Ciberseguridad (Red Team)<br>
+      Mazatlán, Sinaloa, México
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy estudiante de TI con pasión por el desarrollo y las redes.  
 Me gusta crear soluciones prácticas con **HTML, CSS, C++, C#, Java y Android Studio**,  
 y al mismo tiempo fortalecer mi base en **redes Cisco (CCNA)** para avanzar hacia el área de  
 **Ciberseguridad ofensiva y Pentesting**.
 
-> 🎯 Mi objetivo: combinar desarrollo y seguridad para crear herramientas útiles en auditoría y automatización de redes.
+> Mi objetivo: combinar desarrollo y seguridad para crear herramientas útiles en auditoría y automatización de redes.
 
 ---
 
@@ -23,22 +23,22 @@ y al mismo tiempo fortalecer mi base en **redes Cisco (CCNA)** para avanzar haci
 
 | Área | Tecnologías |
 |------|--------------|
-| 💻 Desarrollo Web | HTML, CSS, JavaScript (básico), Supabase |
-| 📱 Desarrollo Móvil | Android Studio (Kotlin / Java) |
-| 🧠 Programación | C++, C, Java |
-| 🌐 Redes | VLANs, DHCP, Routing, Subnetting (Cisco Packet Tracer) |
-| 🔐 Ciberseguridad | Pentesting, Red Team (en formación) |
-| ⚙️ Herramientas | Git, GitHub, Wireshark, Linux, Visual Studio, NetBeans |
+|  Desarrollo Web | HTML, CSS, JavaScript (básico), Supabase |
+|  Desarrollo Móvil | Android Studio (Kotlin / Java) |
+|  Programación | C++, C, Java |
+|  Redes | VLANs, DHCP, Routing, Subnetting (Cisco Packet Tracer) |
+|  Ciberseguridad | Pentesting, Red Team (en formación) |
+|  Herramientas | Git, GitHub, Wireshark, Linux, Visual Studio, NetBeans |
 
 ---
 
-### 📂 Proyectos destacados
+### Proyectos destacados
 
-🧩 **Files-to-PDF**  
+ **Files-to-PDF**  
 Aplicación de escritorio Java Swing para convertir, unir, dividir y manipular archivos PDF con vista previa y modo oscuro.  
 ➡️ [Ver repositorio](https://github.com/Ugo25/Files-to-PDF)
 
-📱 **AppMovil043**  
+**AppMovil043**  
 Colección de pequeñas utilidades Android (IMC, conversores, cotización). Proyecto académico.  
 ➡️ [Ver repositorio](https://github.com/Ugo25/AppMovil043)
 
@@ -46,12 +46,12 @@ Colección de pequeñas utilidades Android (IMC, conversores, cotización). Proy
 Sitio web con fondo animado en CSS y estructura HTML completa.  
 ➡️ [Ver repositorio](https://github.com/Ugo25/Fondo-Animado)
 
-🧠 **Lab-Redes-CCNA (en progreso)**  
+**Lab-Redes-CCNA (en progreso)**  
 Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routing.  
 
 ---
 
-### 🌐 Conecta conmigo
+### Contacta conmigo
 
 <p align="left">
   <a href="https://www.instagram.com/Ugowaos" target="_blank">
