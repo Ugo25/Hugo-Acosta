@@ -77,5 +77,4 @@ Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routin
 
 ---
 
-<h4 align="center">✨ Gracias por visitar mi perfil ✨</h4>
-<p align="center">💡 “Aprender, construir y compartir conocimiento cada día.”</p>
+<p align="center">“Aprender, construir y compartir conocimiento cada día.”</p>
